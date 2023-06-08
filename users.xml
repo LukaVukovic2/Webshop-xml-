@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+    <korisnik>
+        <ime>ivo</ime>
+        <prezime>ivić</prezime>
+        <korisnickoIme>user</korisnickoIme>
+        <lozinka>user123</lozinka>
+    </korisnik>
+    <korisnik>
+        <ime>ante</ime>
+        <prezime>antić</prezime>
+        <korisnickoIme>admin</korisnickoIme>
+        <lozinka>admin123</lozinka>
+    </korisnik>
+</korisnici>

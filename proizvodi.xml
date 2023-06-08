@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proizvodi>
+    <proizvod>
+        <id>1001</id>
+        <naziv>Slušalice SBOX HS-201</naziv>
+        <opis>Tip slušalica: On - Ear
+Frekvencijski raspon (Hz): 20 - 20.000
+Impedancija slušalica (Ohm): 32
+Osjetljivost slušalica (dB): 105 ±3
+Veličina zvučnika (mm): 30
+Osjetljivost mikrofona (dB): -58 ±2
+Usmjerenost: Višesmjerni
+Sučelje: 3.5 mm stereo x 2
+Duljina kabela (m): 1.8
+Pleteni kabel: N
+Kontrola glasnoće: Da
+Mikrofon: Da
+Materijal: Plastika
+Boja: Crna</opis>
+        <jamstvo>24 mj.</jamstvo>
+        <cijena>20 €</cijena>
+        <slika>slusalice1.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1002</id>
+        <naziv>Slušalice JBL Tune 500</naziv>
+        <opis>The JBL Tune 720BT headphones stream powerful JBL Pure Bass
+Thanks to the latest 5.3 BT technology. Easy to use, these headphones provide up to 76 hours of pure pleasure and an extra 3 hours of battery with just 5 minutes of charge.
+
+Download the free JBL Headphones App
+And customize your sound through the EQ, while Voice Prompts guide you through the headphones features. Manage calls, sound and volume from the earcup, thanks to the convenient button control. If a call comes in while you are watching a video on another device, the JBL Tune 720BT seamlessly switch to your mobile, so you never miss a call. lightweight and comfortable even after hours of listening, the JBL Tune 720BT headphones fold flat in your backpack to follow you everywhere.
+
+Specifications:
+Driver Size: 40 mm / 1.57 “ Dynamic driver
+Power supply: 5 V 1 A
+Weight: 220 g / 0.485 lbs
+Headset battery type: Lithium-ion battery (3.7V / 500 mAh)
+Charging time: 2 hrs
+Music playtime with BT on: up to 76 hrs
+Frequency response: 20 Hz –20 kHz
+Impedance: 32 ohm
+Sensitivity: 101 dB SPL@ 1kHz 1mW
+Maximum SPL: 95 dB
+Microphone sensitivity: -40 dBV@1kHz/Pa
+Bluetooth version: 5.3
+Bluetooth profile version: HFP 1.7.2, AVRCP 1.6.2, A2DP 1.3.2
+Bluetooth transmitter frequency range: 2.4 GHz – 2.4835 GHz
+Bluetooth transmitted power: 10 dBm (E.I.R.P)
+Bluetooth transmitted modulation: GFSK, /4DQPSK,8DPSK
+</opis>
+        <jamstvo>12 mj.</jamstvo>
+        <cijena>40 €</cijena>
+        <slika>slusalice2.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1003</id>
+        <naziv>Monitor LG 27in 27GN95R-B.AEU</naziv>
+        <opis>Tečni prikaz pokreta
+Iznimno velika brzina od 144 Hz omogućuje igračima da brže vide sljedeću sličicu i da slika bude jasnija. Igrači mogu brže reagirati na protivnike i lakše ciljati u mete.
+
+Osmišljen za nevjerojatnu brzinu
+Uz IPS 1 ms koji se približava brzini TN, u potpunosti smanjeno zaostajanje slike i kratko vrijeme odziva, uživajte u potpuno novoj učinkovitosti u igranju videoigara.
+
+Opće specifikacije
+Veličina zaslona 27"
+Vrsta zaslona IPS
+Omjer slike 16:9
+Razlučivost 3840 x 2160
+Svjetlina (Tip.) Min. 360 cd/m2 / Tip. 400 cd/m2
+Omjer kontrasta (original) Min. 700:1 / Tip. 1000:1
+Vrijeme odziva_tip. (GTG) 1ms (GtG at Faster)
+Kut gledanja (CR?10) 178o(R/L), 178o(U/D)
+Raspon boja DCI-P3 98% (CIE1976)
+Ulazi/izlazi
+HDMI Da (2)
+DisplayPort Da (1, ver.: 1.4)
+Posebna značajka
+HDR Da (HDR10, HDR Effect, DisplayHDR 600)
+AMD FreeSync FreeSync Premium Pro
+NVIDIA G-Sync kompatibilan Da
+Mehanički
+Nagib (kut) Da
+Visina (raspon) Da
+Horizontalno okretanje (kut) Da
+</opis>
+        <jamstvo>36 mj.</jamstvo>
+        <cijena>916 €</cijena>
+        <slika>monitorlg.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1004</id>
+        <naziv>Notebook Acer Aspire Gaming 7</naziv>
+        <opis>Processor
+Processor Model AMD Ryzen 5500U
+Processor Core Hexa-core (6 Core™)
+Processor Speed 2.10 GHz - 4.00GHz
+Maximum Turbo Speed 4 GHz
+Cache 8 MB
+64-bit Processing Yes
+Memory
+Standard Memory 8 GB
+Maximum Memory Supported 32 GB
+Memory Technology DDR4 SDRAM
+Memory Configuration 1 x 8GB
+Number of Total Memory Slots 2
+Storage
+Solid State Drive Configuration 1 x 512GB
+Display Graphics
+Screen Size 39.6 cm (15.6")
+Display Screen Type LCD
+Display Screen Technology In-plane Switching (IPS) Technology
+Aspect Ratio 16:9
+Screen Mode Full HD
+Screen Resolution 1920 x 1080
+</opis>
+        <jamstvo>12 mj.</jamstvo>
+        <cijena>645 €</cijena>
+        <slika>laptop.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1005</id>
+        <naziv>Mikrofon Speedlink Capo</naziv>
+        <opis>SPECIFIKACIJA:
+• PC mikrofon
+• Ručni i stolni sistem postavljanja
+• Odlična kvaliteta snimanja glasa
+• Daje briljantni i čisti zvuk
+• Ergonomski i lagan
+• Praktični stalak za sigurnu poziciju i postavljanje kuta
+• Praktični prekidač za paljenje i gašenje
+• Robusne je konstrukcije
+• Lako se instalira
+• Priključak 3.5mm
+• Dužina kabela 2m</opis>
+        <jamstvo>24 mj.</jamstvo>
+        <cijena>10 €</cijena>
+        <slika>mikrofon.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1006</id>
+        <naziv>Tipkovnica Speedlink Vela</naziv>
+        <opis>Mehanička preciznost u kombinaciji s učinkovitim dizajnom i modernom optikom - ovo je VELA LED gaming tipkovnica. Metalni poklopac i jedanaest načina osvjetljenja ističu izgled u punoj veličini, koji je dizajniran imajući na umu brzu akciju. Mehaničke tipke s plavim prekidačima impresioniraju taktilnim i akustičnim povratnim informacijama. Osim ugodnog osjećaja, osiguravaju i dug životni vijek.  </opis>
+        <jamstvo>24 mj.</jamstvo>
+        <cijena>24 €</cijena>
+        <slika>tipkovnica.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1007</id>
+        <naziv>Kabel Apple, Lightning (M) na USB-C (M)</naziv>
+        <opis>Connect your iPhone, iPad or iPod with Lightning connector to your USB-C- or Thunderbolt 3 (USB-C)-enabled Mac for syncing and charging, or to your USB-C-enabled iPad for charging.
+
+Specifications:
+Connectors Type C | Lightning
+Connector gender Male - male
+Cable length 2 m
+Colour White</opis>
+        <jamstvo>12 mj.</jamstvo>
+        <cijena>25 €</cijena>
+        <slika>kabel.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1008</id>
+        <naziv>Fortnite: Minty Legends Pack (CIAB) PS5</naziv>
+        <opis>Keep it fresh and fierce with the Minty Legends Pack. Everything you need to chill out the competition including:
+- Fresh Aura, Minty Bomber and Skellemint Oro outfits
+- Three spearing Pickaxes
+- One spicy hot Wrap
+- 1,000 V-Bucks
+
+From the smoldering wreckage of the Mothership a new threat arises. Cubes are waking up, spreading corruption, and creating Rifts to “The Sideways.”
+
+Enter the Sideways to take on monsters and find Sideways Weapons. Rev up these new weapons to their superpowered state.
+
+
+
+</opis>
+        <jamstvo>0 mj.</jamstvo>
+        <cijena>25 €</cijena>
+        <slika>ps5game.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1009</id>
+        <naziv>3D olovka Creality 3D Printing Pen, s filamentima</naziv>
+        <opis>Easy to Use
+Simple operation to make 3D printing without cumbersome buttons and drawing much easier. No more worries about complicated instructions.
+
+Quick Recharging
+Fast charging at 5V/1A, 1-hour charging for 60 minutes sustainable power, 1-week standby, long battery life, and low power consumption, let kids enjoy 3D printing.
+
+Ecofriendly filaments
+It is made of starch extracted from plants, safe and secure, non-toxic, and no odor.
+
+</opis>
+        <jamstvo>12 mj.</jamstvo>
+        <cijena>26,5 €</cijena>
+        <slika>olovka.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1010</id>
+        <naziv>Miš Logitech M220 Silent</naziv>
+        <opis>SILENCE IN EVERY CLICK
+Forget about distracting clicking sounds. M220 reduces over 90% of noise, creating a quieter and more productive environment for you and those around you. The small size and smooth cursor control make it great for tight workspaces and busy desks.
+
+</opis>
+        <jamstvo>24 mj.</jamstvo>
+        <cijena>28 €</cijena>
+        <slika>mis.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1011</id>
+        <naziv>Podloga za miš UVI Inferno</naziv>
+        <opis>Inferno series
+UVI Inferno is a series of mouse pads, designed for gaming. Every gamer has their own preferences.
+
+Seamless Anti-Fray Stitching
+UVI Inferno has seamless anti-fray stitched edges, which prevent unwanted tearing and offer resistance to daily wear, while also improving durability and longevity.
+
+</opis>
+        <jamstvo>12 mj.</jamstvo>
+        <cijena>29 €</cijena>
+        <slika>podloga.jpg</slika>
+    </proizvod>
+    <proizvod>
+        <id>1012</id>
+        <naziv>Kontroler Logitech F310, žičani</naziv>
+        <opis>EXTENSIVE GAME SUPPORT
+Play console ports with their native-style controller or adopt a more relaxed position while enjoying PC games. F310 is easy to set up and use with your favorite games thanks to XInput/DirectInput .
+
+</opis>
+        <jamstvo>24 mj.</jamstvo>
+        <cijena>40 €</cijena>
+        <slika>joys.jpg</slika>
+    </proizvod>
+</proizvodi>
