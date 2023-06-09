@@ -22,7 +22,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     
         $xml->asXML('users.xml');
         $msg = "Registracija je uspješna!";
-        $_SESSION['username'] = $zeljenoIme; // Set the username in the session
+        $_SESSION['username'] = $zeljenoIme;
         $_SESSION['logged_in'] = true;
         header('Location: index.php');
         exit();
